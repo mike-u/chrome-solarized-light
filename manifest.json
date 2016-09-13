@@ -2,7 +2,7 @@
 "theme":{"images":{"theme_frame":"images/theme_frame.png",
 "theme_toolbar":"images/theme_toolbar.png",
 "theme_tab_background":"images/theme_tab_background.png"},
-"colors":{"frame":[238,232,213],
+"colors":{"frame":[238,232, 213],
 "toolbar":[238,232,213],
 "tab_text":[7,54,66],
 "tab_background_text":[88,110,117],
