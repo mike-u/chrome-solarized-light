@@ -1,19 +1,33 @@
-{"manifest_version":2,
-"theme":{"images":{"theme_frame":"images/theme_frame.png",
-"theme_ntp_attribution":"images/theme_ntp_attribution.png",
-"theme_toolbar":"images/theme_toolbar.png",
-"theme_tab_background":"images/theme_tab_background.png"},
-"colors":{"frame":[238,232, 213],
-"toolbar":[238,232,213],
-"tab_text":[7,54,66],
-"tab_background_text":[88,110,117],
-"bookmark_text":[88,110,117],
-"ntp_background":[253,246,227],
-"ntp_text":[0,0,0],
-"button_background":[42,161,152,1]},
-"tints":{"buttons":[0.49,0.59,0.4]},
-"properties":{"ntp_background_alignment":"bottom",
-"ntp_background_repeat":"no-repeat"}},
-"name":"Solarized Light",
-"version":"1",
-"description":"Solarized Light chrome theme"}
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx5MYBgAnlT/LTAaWIji0jSLVl2+YCvk378hsfi5Mm0ACVz/LJBq92+0DrcI9mH13YG7jkt8Ubw/8iD3YScMNib/8a9UZVFxBY4iONjodDcnfgme+YGK1sVs57wk+bb+8jWLUat014KdOcAHwNGrkH5x75kg1MdJCKAJa4CAXS2JMSsm0ki56NXxLamCvqlb7EeepPDK2Vy0nTIuhSlSBKHcMebV1IzL+PRjsMvSLBD8hgbq4NQQm5Flhbiza/B6Tzyna2+rsgr28D0+m3HFVU+m3S1ucfRJpTlDqnzMOHntcapaDldfn+26nge6yzMxiVMq+SYgisOHZpcqeeRYh7wIDAQAB",
+   "manifest_version": 2,
+   "name": "Solarized Light",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 88, 110, 117 ],
+         "button_background": [ 42, 161, 152, 1 ],
+         "frame": [ 238, 232, 213 ],
+         "ntp_background": [ 253, 246, 227 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 88, 110, 117 ],
+         "tab_text": [ 7, 54, 66 ],
+         "toolbar": [ 238, 232, 213 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_attribution": "images/theme_ntp_attribution.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0.49, 0.59, 0.4 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
